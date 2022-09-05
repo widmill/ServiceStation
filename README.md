@@ -8,3 +8,4 @@ API for mananging information about clients based on monolithic architecture wit
 - Spring Data JPA
 - PostgreSQL
 - JWT
+- Gradle
